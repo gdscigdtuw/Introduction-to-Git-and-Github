@@ -73,4 +73,4 @@
 [Link to Git Cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
 ### Creating and Adding SSH Keys
-[Link](https://youtu.be/Z3ELWci34cM)
+[Link to video](https://youtu.be/Z3ELWci34cM)
